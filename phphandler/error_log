@@ -1,0 +1,60 @@
+085131.873'[;07-Jun-2020 15:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 87
+[07-Jun-2020 15:47:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 87
+[07-Jun-2020 15:47:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 87
+[07-Jun-2020 15:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 87
+[07-Jun-2020 15:50:05 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 86
+[07-Jun-2020 15:51:33 UTC] PHP Notice:  Undefined index: name in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 3
+[07-Jun-2020 15:51:33 UTC] PHP Notice:  Undefined index: subject in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 4
+[07-Jun-2020 15:51:33 UTC] PHP Notice:  Undefined index: email in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 5
+[07-Jun-2020 15:51:33 UTC] PHP Notice:  Undefined index: phone in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 6
+[07-Jun-2020 15:51:33 UTC] PHP Notice:  Undefined index: message in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 7
+[07-Jun-2020 15:51:39 UTC] PHP Notice:  Undefined index: name in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 3
+[07-Jun-2020 15:51:39 UTC] PHP Notice:  Undefined index: subject in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 4
+[07-Jun-2020 15:51:39 UTC] PHP Notice:  Undefined index: email in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 5
+[07-Jun-2020 15:51:39 UTC] PHP Notice:  Undefined index: phone in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 6
+[07-Jun-2020 15:51:39 UTC] PHP Notice:  Undefined index: message in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 7
+[07-Jun-2020 15:51:40 UTC] PHP Notice:  Undefined index: name in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 3
+[07-Jun-2020 15:51:40 UTC] PHP Notice:  Undefined index: subject in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 4
+[07-Jun-2020 15:51:40 UTC] PHP Notice:  Undefined index: email in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 5
+[07-Jun-2020 15:51:40 UTC] PHP Notice:  Undefined index: phone in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 6
+[07-Jun-2020 15:51:40 UTC] PHP Notice:  Undefined index: message in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 7
+[07-Jun-2020 15:51:41 UTC] PHP Notice:  Undefined index: name in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 3
+[07-Jun-2020 15:51:41 UTC] PHP Notice:  Undefined index: subject in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 4
+[07-Jun-2020 15:51:41 UTC] PHP Notice:  Undefined index: email in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 5
+[07-Jun-2020 15:51:41 UTC] PHP Notice:  Undefined index: phone in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 6
+[07-Jun-2020 15:51:41 UTC] PHP Notice:  Undefined index: message in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 7
+[07-Jun-2020 15:52:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 87
+[07-Jun-2020 15:52:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 87
+[07-Jun-2020 15:53:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 87
+[07-Jun-2020 15:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 87
+[07-Jun-2020 16:05:21 UTC] PHP Parse error:  syntax error, unexpected ''Location: ../contact-thankyou' (T_ENCAPSED_AND_WHITESPACE) in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 86
+[07-Jun-2020 16:06:31 UTC] PHP Parse error:  syntax error, unexpected ''Location: ./contact-thankyou.' (T_ENCAPSED_AND_WHITESPACE) in /home/gp2r34p5u7h2/public_html/sitepreviewmode.com/phphandler/handler.php on line 86
+[13-Jun-2020 17:41:25 UTC] PHP Notice:  Undefined index: name in /home/gp2r34p5u7h2/public_html/BITBYBITOK.ORG/phphandler/handler.php on line 3
+[13-Jun-2020 17:41:25 UTC] PHP Notice:  Undefined index: subject in /home/gp2r34p5u7h2/public_html/BITBYBITOK.ORG/phphandler/handler.php on line 4
+[13-Jun-2020 17:41:25 UTC] PHP Notice:  Undefined index: email in /home/gp2r34p5u7h2/public_html/BITBYBITOK.ORG/phphandler/handler.php on line 5
+[13-Jun-2020 17:41:25 UTC] PHP Notice:  Undefined index: phone in /home/gp2r34p5u7h2/public_html/BITBYBITOK.ORG/phphandler/handler.php on line 6
+[13-Jun-2020 17:41:25 UTC] PHP Notice:  Undefined index: message in /home/gp2r34p5u7h2/public_html/BITBYBITOK.ORG/phphandler/handler.php on line 7

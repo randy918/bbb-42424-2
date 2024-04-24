@@ -1,0 +1,77 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(55, 66, 76);
+  font-family: "Overpass", sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+  margin: 0;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 1;
+}
+
+h2 {
+  color: white;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+h3 {
+  color: white;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+.bold {
+  font-weight: 900;
+}
+
+#yellow {
+  color: rgb(221, 172, 94);
+}
+
+#green {
+  color: rgb(0, 173, 43);
+}
+
+.gridContainer {
+  display: grid;
+  grid-gap: 50px;
+  grid-template-columns: repeat(auto-fill, 280px);
+  grid-auto-flow: row;
+  align-items: end;
+  justify-content: center;
+}
+
+img {
+  height: 370px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.btn {
+  display: inline-block;
+  background-color: rgb(78, 92, 107);
+  border: none;
+  width: 280px;
+  color: rgb(221, 172, 94);
+  text-align: center;
+  font-size: 20px;
+  margin-top: 15px;
+  padding: 10px 10px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: rgb(43, 50, 56);
+  color: rgb(221, 172, 94);
+}/*# sourceMappingURL=main 120219.1832 GOOD.css.map */

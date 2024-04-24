@@ -1,0 +1,69 @@
+.social-wrap {
+  width: 325px;
+  height: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -162.5px;
+}
+
+.social-wrap button {
+  border: none;
+  outline: none;
+  width: 50px;
+  height: 50px;
+  font-size: 1.25em;
+  transition: color .25s ease-out, background .25s ease-out, border-radius .25s ease-out;
+  box-shadow: 0px 27px 73px -10px rgba(0, 0, 0, 0.75);
+}
+
+.social-wrap button:hover {
+  cursor: pointer;
+  border-radius: 50px;
+  box-shadow: 0px 27px 45px -10px rgba(0, 0, 0, 0.75);
+}
+
+.social-wrap .facebook {
+  color: #3b5998;
+  background-color: #fff;
+}
+
+.social-wrap .facebook:hover {
+  color: #fff;
+  background-color: #3b5998;
+}
+
+.social-wrap .facebook:active {
+  background-color: #fff;
+  color: #3b5998;
+}
+
+.social-wrap .twitter {
+  color: #00aced;
+  background-color: #fff;
+}
+
+.social-wrap .twitter:hover {
+  color: #fff;
+  background-color: #00aced;
+}
+
+.social-wrap .twitter:active {
+  background-color: #fff;
+  color: #00aced;
+}
+
+.social-wrap .google-plus {
+  color: #dd4b39;
+  background-color: #fff;
+}
+
+.social-wrap .google-plus:hover {
+  color: #fff;
+  background-color: #dd4b39;
+}
+
+.social-wrap .google-plus:active {
+  background-color: #fff;
+  color: #dd4b39;
+}
